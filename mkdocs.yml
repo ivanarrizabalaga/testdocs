@@ -1,1 +1,4 @@
 site_name: MalariaCare
+pages:
+    - [index.md, Home]
+    - [about.md, About]
